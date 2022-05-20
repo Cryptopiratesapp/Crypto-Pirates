@@ -1,0 +1,16 @@
+{
+"companyName": "ItHub Games",
+"productName": "Crypto-pirates",
+"productVersion": "0.03f",
+"dataUrl": "crypt.data.unityweb",
+"wasmCodeUrl": "crypt.wasm.code.unityweb",
+"wasmFrameworkUrl": "crypt.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
