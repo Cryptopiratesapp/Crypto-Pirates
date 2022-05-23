@@ -20,13 +20,14 @@ Ship
 The main driving force of the game. Any registered player receives a free ship. 
 The player can improve the ship’s stats by purchasing and implementing an NFT card. Depending on the grade of the card, it adds a certain number of stats.
 
-Artifacts 
+Artifacts:
 The player can buy artifacts from the in-game shop or loot them from bosses. Artifacts have different effects. Depending on the type of artifact, it can be used either on the enemy or on yourself.
 
-Captain 
+Captain:
 A default captain is available to every player. With each hop passed and the battle won, the captain becomes more experienced, randomly improving their stats.
 An enhanced captain can be purchased by a player if they have the corresponding NFT.
-Crew 
+
+Crew:
 The player receives a crew unit by purchasing the corresponding NFT card. The crew improves the ship, adding special skills and characteristics to it.
 
 # [Tokenomics](https://docs.crypto-pirates.app/ecosystem/our-tokenomics)
