@@ -1,4 +1,7 @@
-# Crypto-Pirates 
+# [Crypto-Pirates](https://crypto-pirates.app)
+
+![IMG_6407](https://user-images.githubusercontent.com/105655894/169757753-b7a486c4-a4fb-4ba5-baac-0d8f3b8dfed9.PNG)
+
 The game is sat in a fantasy universe where the space between rare islands of civilization is littered with alien monsters and terrible creatures. 
 Intrepid adventurers traverse this incredible space in solar-sailed ships. 
 Some leave behind gray everyday life, others are driven forward by an itch for gain and the hope of getting rich 
@@ -11,7 +14,7 @@ Giant weird monsters
 Artifact hunt 
 Treasure hunt
 
-# Gameplay
+# [Gameplay](https://docs.crypto-pirates.app/game-and-features/gameplay)
 Move between ports and fight against monsters, dangerous bosses and other players. Take loot from them and become the richest pirate in the whole New World.
 Ship 
 The main driving force of the game. Any registered player receives a free ship. 
@@ -26,7 +29,7 @@ An enhanced captain can be purchased by a player if they have the corresponding 
 Crew 
 The player receives a crew unit by purchasing the corresponding NFT card. The crew improves the ship, adding special skills and characteristics to it.
 
-# Tokenomics
+# [Tokenomics](https://docs.crypto-pirates.app/ecosystem/our-tokenomics)
 Seed Round 
 Amount of tokens: 40 000 000 
 
@@ -53,9 +56,19 @@ Tokens that are allocated to the community, which can be obtained in the game an
 Amount of tokens: 450 000 000
 In-game rewards will be taken from the ecosystem. In the future, the Ecosystem will be replenished from the amount of spending by players.
 
-# Smart contract Piastr (PST)
+# Smart contract Piastr  [(PST)](https://github.com/Cryptopiratesapp/Crypto-Pirates/blob/main/Piastr.sol)
 Standart : BEP20
+
 Name : Piastr
+
 Ticker : PST
+
 Decimals : 9
+
 Total supply : One-time, 1000 000 000 tokens
+
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=Twitter&logoColor=white>)
+![Telegram](https://img.shields.io/badge/Telegram-e0cfb1?style=for-the-badge&logo=Telegram&logoColor=white>)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white>)
